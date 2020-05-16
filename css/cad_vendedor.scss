@@ -1,0 +1,120 @@
+$color-primary: #fff;
+
+body {
+    overflow-x: hidden;
+    background: url('https://zeeo.com.br/renan/burger-cheeseburger-delicious-2874979a.jpg') no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.row-menu {
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+.menu {
+    text-align: right;
+    margin-top: 10px;
+    font-weight: 500;
+
+}
+
+.linkmenu {
+    color: $color-primary;
+    margin-right: 10px;
+    font-size: 17px;
+    
+}
+
+.linkmenu:hover{
+    color: $color-primary;
+}
+
+a.linkmenu1:link {
+    color: $color-primary;
+    font-size: 17px;    
+    text-decoration: none;
+}
+
+.logoimg {
+    font-size: 30px;
+    margin-top: 3px;
+    margin-left: 140px;
+    color: $color-primary;
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+.logoimg1 {
+    font-size: 30px;
+    margin-top: 3px;
+    margin-left: -5px;
+    color: $color-primary;
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+    font-style: oblique;
+}
+
+.h1cadastro {
+    color: #fff;
+    font-size: 70px;
+    margin-top: 110px;
+    margin-left: 10px;
+    font-weight: 700;
+    font-family: Helvetica, sans-serif;
+}
+
+$fontpadrao : Helvetica, sans-serif;
+
+.colfields {
+    background: rgba(255, 255, 255, 1);    
+    margin-top: 30px;
+    margin-left: 70px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    border-radius: 20px;
+}
+
+.colfields1 {
+    text-align: center;
+    font-family: $fontpadrao;
+    h1 {
+        font-weight: 700;
+        margin-top: 10px;
+        font-size: 32px;
+    }
+    p {
+        color: rgb(88, 88, 88);
+        font-size: 18px;
+        margin-bottom: -20px;
+        font-weight: 500;
+    }
+    button {
+        margin-bottom: 15px;
+        margin-top: -17px;
+    }
+}
+
+.colfields2 {
+    font-family: $fontpadrao;
+    padding-bottom: 25px;
+    margin-top: 40px;
+    p {
+        margin-top: 20px;
+        font-size: 12px;
+        color: rgb(129, 129, 129);
+    }
+}
+
+.h2fields {
+    font-family: $fontpadrao;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 12px;
+}
+
+button {
+    border-radius: 7px !important;
+}

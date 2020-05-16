@@ -1,0 +1,72 @@
+body {
+  overflow-x: hidden;
+  background: url("https://zeeo.com.br/renan/batatadopai.jpg") no-repeat center top fixed;
+  background-size: cover;
+}
+
+.formlogin {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.form-group h1 {
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 500;
+  color: #5a5a5a;
+  margin-bottom: 20px;
+}
+
+.logoimg {
+  font-size: 42px;
+  margin-top: 3px;
+  margin-left: 80px;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+.logoimg1 {
+  font-size: 42px;
+  margin-top: 3px;
+  margin-left: -5px;
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+.linkmenu {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 17px;
+  text-decoration: none;
+}
+
+.linkmenu:hover {
+  color: #fff;
+  margin-right: 10px;
+  font-size: 17px;
+}
+
+.row-menu {
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+.menu {
+  text-align: right;
+  margin-top: 10px;
+  font-weight: 500;
+}
+
+a.linkmenu1:link {
+  color: #fff;
+  font-size: 17px;
+  text-decoration: none;
+}
+/*# sourceMappingURL=login.css.map */
